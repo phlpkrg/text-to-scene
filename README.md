@@ -16,7 +16,7 @@ This repository contains code developed for my Bachelor's thesis on generating 3
 - **system**  
   Contains implementations of the `3dsg_from_text` module.
 
-## Acknowledgements
+## Generative AI Usage
 
 ChatGPT-4o by OpenAI was used to:
 - Improve code readability  
