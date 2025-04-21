@@ -1,24 +1,23 @@
-# text-to-scene
-The code in this repository was created by me for my bachelor's thesis.
+# Text-to-Scene
 
+This repository contains code developed for my Bachelor's thesis on generating 3D scene graphs from text.
 
-The folders
-  - dataset creation
-  - evaluation
-  - fine-tuning
-contain Jupyter Notebooks that contain the code used in these steps.
+## Repository Structure
 
-The folder
-  - system
-contains the implemented 3dsg_from_text module versions.
+- **dataset creation**  
+  Jupyter Notebooks for preparing and generating datasets.
 
-    
+- **evaluation**  
+  Notebooks used to assess model performance and outputs.
 
+- **fine-tuning**  
+  Code for fine-tuning models on custom datasets.
 
+- **system**  
+  Contains implementations of the `3dsg_from_text` module.
 
-
-
+## Acknowledgements
 
 ChatGPT-4o by OpenAI was used to:
-  - enhance code readability,
-  - debugging.
+- Improve code readability  
+- Assist with debugging
