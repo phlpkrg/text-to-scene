@@ -7,11 +7,15 @@ The folders
   - evaluation
   - fine-tuning
 contain Jupyter Notebooks that contain the code used in these steps.
+
 The folder
   - system
 contains the implemented 3dsg_from_text module versions.
 
     
+
+
+
 
 
 
